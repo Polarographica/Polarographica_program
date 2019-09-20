@@ -5,7 +5,7 @@
 #Polarographica is a graphical user interface program written in Python 2.7
 #for simulating and evaluating CV, LSV and EIS. 
 
-#-------------------------------
+
 #Polarographica was created by 
 #       Tim Tichter 
 #email: t.tichter@fu-berlin.de 
