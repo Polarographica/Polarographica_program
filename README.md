@@ -31,7 +31,10 @@
 
 #References
 #[1]L.N.Trefethen, J.A.C.Weideman, and T.Schmelzer. Talbot quadraturesand rational approximations. BIT. Numerical Mathematics, 46(3):653 670, 2006.
+
 #[2] F.Nieuwveldt, Numerical Inversion of the Laplace Transform using the Talbot method. (Python recipe), 2009, http://code.activestate.com/recipes/576934-numerical-inversion-of-the-laplace-transform-using/?in=user-4172088
+
 #[3] A. Lasia, Electrochemical Impedance Spectroscopy and its Applications, Springer-Verlag New York, 2014, 10.1007/978-1-4614-8933-7
+
 #[4] T. H. Wan, M. Saccoccio, C. Chen, F. Ciucci, Electrochimica Acta 2015, 184, 483.
 
