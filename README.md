@@ -1,5 +1,7 @@
 Polarographica_program
 
+(NOW AVAILABLE ALSO FOR PYTHON_3_2020.03.21)
+
 Cyclic voltammetry (CV), Linear-sweep voltammetry (LSV) and electrochemical impedance spectroscopy (EIS) are the prevalently
 used techniques in electrochemical investigations. However, quantitative interpretation of experimentally acquired data is usually a non-straight forward task. Polarographica is a graphical user interface program, written in Python 2.7
 programming language, for simulating and evaluating electroanalytical experiments. Polarographica supports simulation and data evaluation of the following electroanalytical techniques at systems involving macroporous electrodes as well as non porous macro- or microelectrodes:
