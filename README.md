@@ -1,6 +1,8 @@
 Polarographica_program
 
-(NOW AVAILABLE ALSO FOR PYTHON_3_2020.03.21)
+Polarographica-Versions 1.0.0 to 2.0.0 have been removed! Polarographica 2.1.0 is an improved version (running under python 3.7). A Bug in Voltammetric modules has been fixed and the GUI has been renewed. More functions will follow soon.
+
+(NOW AVAILABLE ALSO FOR PYTHON_3_2021.01.12)
 
 Cyclic voltammetry (CV), Linear-sweep voltammetry (LSV) and electrochemical impedance spectroscopy (EIS) are the prevalently
 used techniques in electrochemical investigations. However, quantitative interpretation of experimentally acquired data is usually a non-straight forward task. Polarographica is a graphical user interface program, written in Python 2.7
@@ -44,7 +46,7 @@ Jonathan Schneider: jonathan.schneider@fu-berlin.de
 
 When using Polarographica please cite our publication : DOI: 10.1002/cphc.201901113
 
-Date:  2020.01.08
+Date:  2021.01.12
 
 References
 [1]L.N.Trefethen, J.A.C.Weideman, and T.Schmelzer. Talbot quadraturesand rational approximations. BIT. Numerical Mathematics, 46(3):653 670, 2006.
