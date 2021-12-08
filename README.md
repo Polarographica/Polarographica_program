@@ -40,7 +40,7 @@ The distribution of relaxation times (DRT) analysis function (DRT-Tools-NNLS-DRT
 
 Polarographica was created by 
 
-Tim Tichter:  t.tichter@fu-berlin.de 
+Tim Tichter:  timtic@dtu.dk 
 and
 Jonathan Schneider: jonathan.schneider@fu-berlin.de
 
