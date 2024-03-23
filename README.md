@@ -14,7 +14,9 @@ Jonathan Schneider: js-jena@gmx.de
 
 Scientists/colleagues who have contributed to Polarographica are gratefully achnowledged for their indispensible input.
 
-Marius Gernhard: marius.gernhard@uni-bayreuth.de $\hspace{5mm}$ --> $\hspace{5mm}$ Significant contribution in the serial-communication interface of PolArStat
+Marius Gernhard: marius.gernhard@uni-bayreuth.de $\hspace{5mm}$ 
+
+--> $\hspace{5mm}$ Significant contribution in the serial-communication interface of PolArStat
 
 -----------------------
 
