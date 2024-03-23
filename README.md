@@ -29,7 +29,7 @@ The sub-version Polarographica 2.2.2.4 is an improvement of the sub-verion Polar
 
 An additional feature (not limited to Polarographica 2.2.2.4) is the addition of a "hands-on" guide how to assemble the PolArStat-potentiostat on a breadboard. Owing to the overwhelming amount of requests regarding PolArStat-shields, we have decided to create a detailed guide. This is addressed to all experimentalists who want to check out PolArStat without the need of ordering/manufacturing a PCB-shield and without the need and/or experience of soldering. This guide is included in the version-release of Polarographica 2.2.2.4. Additionally, you can access it as a separate folder.
 
-$\bf{Polarographica\hspace{2mm}2.2.2.4}$:
+$\bf{Polarographica\hspace{2mm}2.2.2.2}$:
 The Sub-version Polarographica 2.2.2.2 is an improvement of the native Polarographica 2.2.2 version, where the PolArStat modules were thoroughly re-designed. These changes are basically an improvement of the data-acquisition backend, which is now running on a thread and is therefore independent of the main GUI. This removes the flickering of the data acquisition monitor. Note, that the zipped folder of Polarographica 2.2.2.2 does contain the firmware for the PolArStat which can be uploaded to a classical Arduino. The cool feature: when assembled with the shield described in our Publication [5], you have a fully functional potentiostat for about 40 €, which can run CV and CA. Design files are found in the supplementary information of [5].
 
 $\bf{Polarographica\hspace{2mm}2.2.2}$:
